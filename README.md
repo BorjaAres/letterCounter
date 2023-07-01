@@ -4,7 +4,7 @@ This simple JavaScript program prompts the user to enter a phrase and a single l
 
 ## Usage
 
-1. Open the HTML file in a web browser.
+1. Open the HTML file in a web browser or follow this link: https://letteroccurrencecounter.netlify.app/
 2. When prompted, enter a phrase in the first input box.
 3. When prompted again, enter a single letter in the second input box.
 4. The program will calculate the number of occurrences of the letter in the phrase and display the result in the designated area of the page.
